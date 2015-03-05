@@ -1,4 +1,4 @@
-### Drunken Parrot UI Kit Lite for Meteor
+### Drunken Parrot Flat UI Kit Lite for Meteor
 
 #### Usage
 
